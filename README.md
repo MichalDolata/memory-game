@@ -1,5 +1,5 @@
 # memory-game
-# snake
+Select two cells with the same number under them
 
 ## Used
 - HTML
